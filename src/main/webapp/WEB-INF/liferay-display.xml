@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE display PUBLIC "-//Liferay//DTD Display 6.2.0//EN" "http://www.liferay.com/dtd/liferay-display_6_2_0.dtd">
+
+<display>
+	<category name="category.sample">
+		<portlet id="OraculPortal" />
+		<portlet id="switcher"></portlet>
+		<portlet id="map"></portlet>
+		<portlet id="search"></portlet>
+		<portlet id="level-slider"></portlet>
+		<portlet id="map-switch"></portlet>
+	</category>
+</display>
